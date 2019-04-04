@@ -397,6 +397,15 @@
   "Organizations": {
     "models": "organizations/2016-11-28"
   },
+  "Personalize": {
+    "models": "personalize/2019-04-03"
+  },
+  "PersonalizeRuntime": {
+    "models": "personalize-runtime/2019-04-03"
+  },
+  "PersonalizeEvents": {
+    "models": "personalize-events/2019-04-03"
+  },
   "PI": {
     "models": "pi/2018-02-27"
   },
